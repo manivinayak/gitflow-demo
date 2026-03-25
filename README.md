@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitFlow Demo (GitHub + Python + pytest)
 
 Small, practical template to run a GitFlow branch model on GitHub.
@@ -46,3 +47,6 @@ pytest -q
 ## 5) End-to-end GitFlow demo commands
 
 Exact copy-paste command sequence is in `docs/gitflow-demo-commands.md`.
+=======
+# gitflow-demo
+>>>>>>> 9e78dc2a778900b037dd20ee5ef995c77132e29f
